@@ -1,0 +1,484 @@
+{
+  "quiz_data": [
+    {
+      "mode": "STANDARD",
+      "difficulty": "BREEZY",
+      "questions": [
+        {
+          "id": 1,
+          "question": "What is the capital of Telangana?",
+          "options": ["Warangal", "Karimnagar", "Hyderabad", "Nizamabad"],
+          "answer": "Hyderabad",
+          "explanation": "Hyderabad is Telangana's capital and one of India's biggest tech centres. It houses HITEC City and major global IT companies. Historically, it was ruled by the Nizams."
+        },
+        {
+          "id": 2,
+          "question": "Which festival is known as the 'Festival of Lights'?",
+          "options": ["Pongal", "Holi", "Diwali", "Onam"],
+          "answer": "Diwali",
+          "explanation": "Diwali celebrates the triumph of light over darkness. Homes are decorated with lamps and rangoli. It is celebrated across India with great enthusiasm."
+        }
+      ]
+    },
+    {
+      "mode": "AI/ML",
+      "difficulty": "BREEZY",
+      "questions": [
+        {
+          "id": 1,
+          "question": "What does 'AI' stand for?",
+          "options": ["Artificial Intelligence", "Automated Interface", "Advanced Integration", "Automatic Internet"],
+          "answer": "Artificial Intelligence",
+          "explanation": "AI refers to machines performing tasks that usually require human intelligence. It includes perception, decision-making, and pattern recognition. AI powers everyday tools like voice assistants and recommendation systems."
+        },
+        {
+          "id": 2,
+          "question": "Which algorithm is commonly used for classification?",
+          "options": ["K-Means", "KNN", "Apriori", "PCA"],
+          "answer": "KNN",
+          "explanation": "KNN is a supervised algorithm used for classification and regression tasks. It predicts based on the closest neighbors in the dataset. Other options like K-Means and PCA are unsupervised."
+        }
+      ]
+    },
+    {
+      "mode": "AI/ML",
+      "difficulty": "FEASIBLE",
+      "questions": [
+        {
+          "id": 1,
+          "question": "What does 'Loss Function' measure?",
+          "options": ["Input size", "Model error", "Training speed", "RAM usage"],
+          "answer": "Model error",
+          "explanation": "A loss function quantifies how wrong a model's predictions are. Lower loss means better learning. It drives parameter updates during training."
+        },
+        {
+          "id": 2,
+          "question": "Which optimization technique updates model weights?",
+          "options": ["XOR", "Gradient Descent", "SQL Query", "XML Parsing"],
+          "answer": "Gradient Descent",
+          "explanation": "Gradient descent minimizes loss by adjusting parameters in small steps. Variants include Adam, RMSProp, and SGD. It is fundamental to deep learning."
+        }
+      ]
+    },
+    {
+      "mode": "AI/ML",
+      "difficulty": "UPHILL",
+      "questions": [
+        {
+          "id": 1,
+          "question": "What does 'Regularization' prevent?",
+          "options": ["Clean data", "Duplicate files", "Overfitting", "Training interruption"],
+          "answer": "Overfitting",
+          "explanation": "Regularization adds penalties to complex models. It prevents the model from memorizing training data. L1 and L2 are popular regularization types."
+        },
+        {
+          "id": 2,
+          "question": "LSTM solves which ML issue?",
+          "options": ["Overfitting", "Vanishing gradients", "High RAM usage", "Internet speed"],
+          "answer": "Vanishing gradients",
+          "explanation": "LSTM networks store long-term information. They overcome gradient problems in RNNs. Useful in translation and speech models."
+        }
+      ]
+    },
+    {
+      "mode": "AI/ML",
+      "difficulty": "INTENSE",
+      "questions": [
+        {
+          "id": 1,
+          "question": "The 'Attention Mechanism' solves what limitation of RNNs?",
+          "options": ["Overfitting", "Fixed-length memory", "Noise handling", "Low accuracy"],
+          "answer": "Fixed-length memory",
+          "explanation": "Attention allows models to focus on important parts of the sequence. It removes dependence on sequential processing. Transformers use complete attention for global context."
+        },
+        {
+          "id": 2,
+          "question": "Which Indian organization released the AIRAWAT AI Cloud?",
+          "options": ["DRDO", "ISRO", "NITI Aayog", "BARC"],
+          "answer": "NITI Aayog",
+          "explanation": "AIRAWAT is India's AI compute infrastructure initiative. It supports AI research and innovation. It is part of the National AI Strategy."
+        }
+      ]
+    },
+    {
+      "mode": "HISTORY",
+      "difficulty": "BREEZY",
+      "questions": [
+        {
+          "id": 1,
+          "question": "Who is known as the 'Father of the Indian Nation'?",
+          "options": ["Jawaharlal Nehru", "Sardar Patel", "Mahatma Gandhi", "Subhas Chandra Bose"],
+          "answer": "Mahatma Gandhi",
+          "explanation": "Mahatma Gandhi led India's freedom struggle through non-violence and truth. His movements like Dandi March inspired millions. He remains a global symbol of peace."
+        },
+        {
+          "id": 2,
+          "question": "Which empire built the Taj Mahal?",
+          "options": ["Gupta Empire", "Maurya Empire", "Mughal Empire", "Chola Empire"],
+          "answer": "Mughal Empire",
+          "explanation": "The Taj Mahal was built under the Mughal Emperor Shah Jahan. It is a masterpiece of Mughal architecture. The monument is dedicated to Mumtaz Mahal."
+        }
+      ]
+    },
+    {
+      "mode": "HISTORY",
+      "difficulty": "FEASIBLE",
+      "questions": [
+        {
+          "id": 1,
+          "question": "The Gupta Period is often called the ______ of India.",
+          "options": ["Silver Age", "Golden Age", "Bronze Age", "Iron Age"],
+          "answer": "Golden Age",
+          "explanation": "The Gupta era saw major achievements in science, astronomy, art, and literature. Kalidasa and Aryabhata flourished during this time. It is considered a classical peak in Indian culture."
+        },
+        {
+          "id": 2,
+          "question": "Who founded the Indian National Congress in 1885?",
+          "options": ["A. O. Hume", "Bal Gangadhar Tilak", "Dadabhai Naoroji", "Lala Lajpat Rai"],
+          "answer": "A. O. Hume",
+          "explanation": "A.O. Hume, a retired British civil servant, helped establish the INC. It became the main platform for India's freedom struggle. National leaders later shaped its direction."
+        }
+      ]
+    },
+    {
+      "mode": "HISTORY",
+      "difficulty": "UPHILL",
+      "questions": [
+        {
+          "id": 1,
+          "question": "Who was the last ruler of the Maurya Empire?",
+          "options": ["Brihadratha", "Bindusara", "Ashoka", "Chandragupta"],
+          "answer": "Brihadratha",
+          "explanation": "Brihadratha was assassinated by Pushyamitra Shunga. This marked the end of Mauryan rule. The Shunga Dynasty replaced it."
+        },
+        {
+          "id": 2,
+          "question": "The Delhi Sultanate consisted of how many dynasties?",
+          "options": ["3", "5", "7", "2"],
+          "answer": "5",
+          "explanation": "The five dynasties were Mamluk, Khilji, Tughlaq, Sayyid, and Lodi. They ruled from 1206 to 1526. Each contributed to Indo-Islamic culture."
+        }
+      ]
+    },
+    {
+      "mode": "HISTORY",
+      "difficulty": "INTENSE",
+      "questions": [
+        {
+          "id": 1,
+          "question": "Ashoka's edicts were primarily written in:",
+          "options": ["Brahmi & Kharosthi", "Sanskrit only", "Tamil only", "Greek only"],
+          "answer": "Brahmi & Kharosthi",
+          "explanation": "Major edicts appear in Brahmi and Kharosthi scripts. Some edicts also appear in Greek and Aramaic. They spread Ashoka's moral teachings."
+        },
+        {
+          "id": 2,
+          "question": "The 'Third Battle of Panipat' involved:",
+          "options": ["Akbar vs Hemu", "Babur vs Lodi", "Marathas vs Afghan forces", "British vs Tipu Sultan"],
+          "answer": "Marathas vs Afghan forces",
+          "explanation": "The battle (1761) was between the Marathas and Ahmad Shah Abdali. It was one of the largest battles of the 18th century. The loss weakened Maratha dominance."
+        }
+      ]
+    },
+    {
+      "mode": "SPORTS",
+      "difficulty": "BREEZY",
+      "questions": [
+        {
+          "id": 1,
+          "question": "How many players are on the field for one cricket team?",
+          "options": ["10", "11", "12", "9"],
+          "answer": "11",
+          "explanation": "A cricket side fields 11 players at a time. Substitutes can replace fielders for injury/illness. Batting order can include the whole XI."
+        },
+        {
+          "id": 2,
+          "question": "Badminton singles games are usually played to:",
+          "options": ["15 points", "18 points", "21 points", "25 points"],
+          "answer": "21 points",
+          "explanation": "Modern rally scoring in badminton goes to 21 with a 2-point lead. At 20-20, play continues to a two-point margin. Max cap is 30."
+        }
+      ]
+    },
+    {
+      "mode": "SPORTS",
+      "difficulty": "FEASIBLE",
+      "questions": [
+        {
+          "id": 1,
+          "question": "In cricket T20s, one innings is limited to:",
+          "options": ["10 overs", "15 overs", "20 overs", "25 overs"],
+          "answer": "20 overs",
+          "explanation": "A T20 innings is 20 overs per side. Powerplays restrict fielders early. Strategy balances intent and wickets."
+        },
+        {
+          "id": 2,
+          "question": "In chess, the only piece that can jump over others is the:",
+          "options": ["Bishop", "Rook", "Knight", "Queen"],
+          "answer": "Knight",
+          "explanation": "The knight moves in an 'L' and can jump pieces. This unique ability creates forks and traps. Central knights are often powerful."
+        }
+      ]
+    },
+    {
+      "mode": "SPORTS",
+      "difficulty": "UPHILL",
+      "questions": [
+        {
+          "id": 1,
+          "question": "In Test cricket, a new ball is available after:",
+          "options": ["60 overs", "80 overs", "75 overs", "90 overs"],
+          "answer": "80 overs",
+          "explanation": "Teams can request a new ball after 80 overs in Tests. Fresh balls aid pacers with seam and swing. Captains time it tactically."
+        },
+        {
+          "id": 2,
+          "question": "In football, the offside decision is judged at the moment the ball is:",
+          "options": ["Controlled by attacker", "Passed by teammate", "Received by attacker", "Crossed halfway line"],
+          "answer": "Passed by teammate",
+          "explanation": "Offside is judged when the pass is made. Attackers' positions relative to second-last defender and ball matter. VAR replays the pass instant."
+        }
+      ]
+    },
+    {
+      "mode": "SPORTS",
+      "difficulty": "INTENSE",
+      "questions": [
+        {
+          "id": 1,
+          "question": "In cricket, reverse swing is most effective with:",
+          "options": ["New ball", "Slightly used ball", "Old/rough ball with asymmetry", "Only pink ball"],
+          "answer": "Old/rough ball with asymmetry",
+          "explanation": "Reverse swing arises with an older ball when one side stays shiny and the other rough. Airflow asymmetry moves the ball late. Skilled pacers exploit this at pace."
+        },
+        {
+          "id": 2,
+          "question": "In football analytics, xG stands for:",
+          "options": ["Expected Goals", "Extra Goals", "Extended Game time", "Exact Goals"],
+          "answer": "Expected Goals",
+          "explanation": "xG estimates scoring probability from shot quality (location, angle, type). It evaluates performance beyond raw scorelines. Teams use it for tactics and scouting."
+        }
+      ]
+    },
+    {
+      "mode": "SCIENCE",
+      "difficulty": "BREEZY",
+      "questions": [
+        {
+          "id": 1,
+          "question": "What is the chemical formula of water?",
+          "options": ["CO₂", "H₂O", "O₂", "NaCl"],
+          "answer": "H₂O",
+          "explanation": "Water consists of two hydrogen atoms bonded to one oxygen atom. The bent molecular shape gives water unique properties. It is essential for all known life forms."
+        },
+        {
+          "id": 2,
+          "question": "What is the center of an atom called?",
+          "options": ["Electron", "Proton", "Nucleus", "Shell"],
+          "answer": "Nucleus",
+          "explanation": "The nucleus contains protons and neutrons. It holds almost all the atom's mass. Electrons orbit outside in shells."
+        }
+      ]
+    },
+    {
+      "mode": "SCIENCE",
+      "difficulty": "FEASIBLE",
+      "questions": [
+        {
+          "id": 1,
+          "question": "Which gas causes the greenhouse effect most strongly?",
+          "options": ["Oxygen", "Carbon dioxide", "Helium", "Neon"],
+          "answer": "Carbon dioxide",
+          "explanation": "CO₂ traps heat in Earth's atmosphere. Human activities have increased CO₂ levels dramatically. It is a major contributor to climate change."
+        },
+        {
+          "id": 2,
+          "question": "The SI unit of force is:",
+          "options": ["Watt", "Newton", "Joule", "Pascal"],
+          "answer": "Newton",
+          "explanation": "Force is measured in Newtons (N), named after Sir Isaac Newton. It represents the push/pull required to accelerate mass. Fundamental unit in physics."
+        }
+      ]
+    },
+    {
+      "mode": "SCIENCE",
+      "difficulty": "UPHILL",
+      "questions": [
+        {
+          "id": 1,
+          "question": "Which law states that pressure is inversely proportional to volume?",
+          "options": ["Charles' Law", "Boyle's Law", "Newton's Law", "Hooke's Law"],
+          "answer": "Boyle's Law",
+          "explanation": "Boyle's Law: P ∝ 1/V at constant temperature. Used in syringes, pumps, and respiration mechanics. Fundamental to gas physics."
+        },
+        {
+          "id": 2,
+          "question": "The powerhouse of the cell is:",
+          "options": ["Golgi body", "Ribosome", "Mitochondria", "Lysosome"],
+          "answer": "Mitochondria",
+          "explanation": "Mitochondria produce ATP through cellular respiration. They have their own DNA. Vital for energy-demanding tissues."
+        }
+      ]
+    },
+    {
+      "mode": "SCIENCE",
+      "difficulty": "INTENSE",
+      "questions": [
+        {
+          "id": 1,
+          "question": "Heisenberg's principle states that:",
+          "options": ["Energy is constant", "Position and momentum cannot both be precisely known", "Electrons orbit in circles", "Mass equals charge"],
+          "answer": "Position and momentum cannot both be precisely known",
+          "explanation": "Uncertainty Principle limits measurement precision of quantum particles. Observing a particle disturbs it. Core to quantum mechanics."
+        },
+        {
+          "id": 2,
+          "question": "What is the half-life of a radioactive element?",
+          "options": ["Time to fully decay", "Time for half of atoms to decay", "Time to lose mass", "Time to gain electrons"],
+          "answer": "Time for half of atoms to decay",
+          "explanation": "Half-life measures rate of radioactive decay. Each element has a unique half-life. Used in dating, medicine, and reactors."
+        }
+      ]
+    },
+    {
+      "mode": "TECHNOLOGY",
+      "difficulty": "BREEZY",
+      "questions": [
+        {
+          "id": 1,
+          "question": "What does 'CPU' stand for?",
+          "options": ["Central Power Unit", "Central Processing Unit", "Control Performance Unit", "Computer Power Utility"],
+          "answer": "Central Processing Unit",
+          "explanation": "The CPU is the 'brain' of the computer. It performs calculations and executes instructions. Speed depends on clock rate and architecture."
+        },
+        {
+          "id": 2,
+          "question": "Which device is primarily used for storing data?",
+          "options": ["Monitor", "Hard Drive", "Keyboard", "Mouse"],
+          "answer": "Hard Drive",
+          "explanation": "Hard drives store OS, applications, and files. SSDs/Flash drives are faster modern alternatives. Storage affects booting and loading times."
+        }
+      ]
+    },
+    {
+      "mode": "TECHNOLOGY",
+      "difficulty": "FEASIBLE",
+      "questions": [
+        {
+          "id": 1,
+          "question": "What is the main function of a router?",
+          "options": ["Store movies", "Connect devices to networks", "Increase screen brightness", "Charge devices"],
+          "answer": "Connect devices to networks",
+          "explanation": "Routers direct data between networks (LAN → Internet). Used in homes, offices, data centers. WiFi routers also broadcast wireless signals."
+        },
+        {
+          "id": 2,
+          "question": "HTML is used for:",
+          "options": ["Designing circuits", "Marking up web pages", "Editing photos", "Controlling fans"],
+          "answer": "Marking up web pages",
+          "explanation": "HTML structures webpages—text, links, images. Works with CSS and JavaScript. Fundamental language of the web."
+        }
+      ]
+    },
+    {
+      "mode": "TECHNOLOGY",
+      "difficulty": "UPHILL",
+      "questions": [
+        {
+          "id": 1,
+          "question": "Which algorithm is used in Google Search ranking?",
+          "options": ["PageRank", "QuickSort", "RSA", "Huffman"],
+          "answer": "PageRank",
+          "explanation": "PageRank estimates webpage importance based on links. Forms the foundation of modern search engines. Later enhanced by AI/ML systems."
+        },
+        {
+          "id": 2,
+          "question": "What is Moore's Law?",
+          "options": ["Battery doubling every year", "Transistors doubling every ~2 years", "RAM doubling every week", "Screens doubling resolution daily"],
+          "answer": "Transistors doubling every ~2 years",
+          "explanation": "Moore's Law tracks exponential transistor growth. Explains rapid tech improvements. Slowing today due to physical limits."
+        }
+      ]
+    },
+    {
+      "mode": "TECHNOLOGY",
+      "difficulty": "INTENSE",
+      "questions": [
+        {
+          "id": 1,
+          "question": "Quantum computers use:",
+          "options": ["Classical bits", "Qubits capable of superposition", "Vacuum tubes", "Only binary 0s"],
+          "answer": "Qubits capable of superposition",
+          "explanation": "Qubits exist in multiple states simultaneously. Enable massive parallelism and quantum speedups. Used in cryptography, optimization, chemistry."
+        },
+        {
+          "id": 2,
+          "question": "Blockchain stores data in:",
+          "options": ["Editable rows", "Linked encrypted blocks", "ZIP folders", "Temporary RAM"],
+          "answer": "Linked encrypted blocks",
+          "explanation": "Each block stores hashed data linked to the next. Tamper-resistant design increases trust. Basis of cryptocurrencies and secure ledgers."
+        }
+      ]
+    },
+    {
+      "mode": "GEOGRAPHY",
+      "difficulty": "BREEZY",
+      "questions": [
+        {
+          "id": 1,
+          "question": "Which is the largest continent in the world?",
+          "options": ["Africa", "Asia", "Europe", "Australia"],
+          "answer": "Asia",
+          "explanation": "Asia covers about 44.5 million sq. km. It contains the largest population and many major civilizations. Includes India, China, and Russia."
+        },
+        {
+          "id": 2,
+          "question": "What is the capital of India?",
+          "options": ["Mumbai", "Delhi", "Kolkata", "Bengaluru"],
+          "answer": "Delhi",
+          "explanation": "Delhi is India's national capital territory. It houses Parliament, Supreme Court, and Rashtrapati Bhavan. Has deep historical and cultural significance."
+        }
+      ]
+    },
+    {
+      "mode": "GEOGRAPHY",
+      "difficulty": "FEASIBLE",
+      "questions": [
+        {
+          "id": 1,
+          "question": "The deepest point on Earth is:",
+          "options": ["Tonga Trench", "Puerto Rico Trench", "Mariana Trench", "Java Trench"],
+          "answer": "Mariana Trench",
+          "explanation": "Mariana Trench (~11,000 m) is Earth's deepest oceanic trench. The Challenger Deep is its lowest measured point. Extreme pressure makes exploration difficult."
+        },
+        {
+          "id": 2,
+          "question": "The Deccan Plateau is mainly composed of:",
+          "options": ["Limestone", "Basalt", "Granite", "Sandstone"],
+          "answer": "Basalt",
+          "explanation": "Basaltic rocks formed from ancient volcanic eruptions. Known as Deccan Traps due to step-like formations. Rich in minerals and black soil."
+        }
+      ]
+    },
+    {
+      "mode": "GEOGRAPHY",
+      "difficulty": "UPHILL",
+      "questions": [
+        {
+          "id": 1,
+          "question": "The Konkan Coast lies between:",
+          "options": ["Goa & Kerala", "Maharashtra & Karnataka", "Gujarat & Maharashtra", "Maharashtra & Goa"],
+          "answer": "Maharashtra & Goa",
+          "explanation": "Konkan covers Maharashtra, Goa, and parts of Karnataka. Known for beaches, ports, and Western Ghats. Important for fisheries and tourism."
+        },
+        {
+          "id": 2,
+          "question": "Which Indian city is located on the banks of the Hooghly river?",
+          "options": ["Patna", "Chennai", "Kolkata", "Lucknow"],
+          "answer": "Kolkata",
+          "explanation": "Kolkata developed along the Hooghly River. The river is a distributary of the Ganga. Major center for trade and colonial history."
+        }
+      ]
+    }
+  ]
+}
